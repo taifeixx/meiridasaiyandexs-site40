@@ -1,0 +1,12 @@
+# 每日大赛
+
+> 每日大赛在俄罗斯的Yandex赛区每天公布一道赛题，规则、提交入口与作品陈列都在同一处。
+
+官网：https://www.9imeiridasai.cloud/
+
+## 页面
+
+- [每日大赛 俄罗斯 Yandex：一天一题的公开创作赛](https://yandex.9imeiridasai.cloud/): 每日大赛在俄罗斯的Yandex赛区每天公布一道赛题，规则、提交入口与作品陈列都在同一处。
+- [关于我们 · 每日大赛](https://yandex.9imeiridasai.cloud/about/): 每日大赛 俄罗斯 Yandex 的赛制说明：一天一题、门槛不高、规则写清、作品同台、评分公开。
+- [常见问题 · 每日大赛](https://yandex.9imeiridasai.cloud/faq/): 每日大赛常见问题：赛题什么时候公布？参赛需要报名吗？提交之后还能改吗？作品怎么评选？名次什么时候公布？在哪里看别人的作品？网站上能下单或付款吗？
+- [联系我们 · 每日大赛](https://yandex.9imeiridasai.cloud/contact/): 了解每日大赛 俄罗斯 Yandex 的赛题与提交方式。
